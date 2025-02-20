@@ -1,1 +1,1 @@
-[![lopste's GitHub stats](chromium-nine.vercel.app)]
+(chromium-nine.vercel.app)
